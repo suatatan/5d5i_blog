@@ -1,4 +1,5 @@
 ---
+
 title: Yapay Zeka Nedir?
 date: 2019-05-13 09:05:00
 type: post
