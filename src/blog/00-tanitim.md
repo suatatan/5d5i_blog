@@ -1,6 +1,6 @@
 ---
 title: 5dakikada 5iktaş Blogu Tanıtım
-date: 2019-05-10 20:47:18
+date: 2019-05-01 20:47:18
 excerpt: 5d5i
 type: post
 blog: true
