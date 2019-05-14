@@ -2,7 +2,7 @@
 
 - [x] Dünyada Kaç Dil Vardır?
 - [x] Günde Kaç Saat Uyumalıyız?
-- [ ] Yapay Zeka Nedir
+- [x] Yapay Zeka Nedir
 - [ ] Pomodoro Tekniği Nedir?
 - [ ] Aşk Nedir?
 - [ ] Şeker Gerçekten Zararlı Mı?
